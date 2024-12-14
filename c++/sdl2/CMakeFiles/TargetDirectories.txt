@@ -1,0 +1,3 @@
+/home/nekomimi/Git/PlayGround/c++/sdl2/CMakeFiles/packages.dir
+/home/nekomimi/Git/PlayGround/c++/sdl2/CMakeFiles/edit_cache.dir
+/home/nekomimi/Git/PlayGround/c++/sdl2/CMakeFiles/rebuild_cache.dir
