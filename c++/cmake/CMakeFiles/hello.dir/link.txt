@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/hello.dir/main.cpp.o -o bin/Linux64/hello  -Wl,-rpath,/home/nekomimi/Git/PlayGround/c++/cmake/bin/Linux64 bin/Linux64/libusrlib.so
